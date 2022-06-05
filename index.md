@@ -2,11 +2,11 @@
 layout: default
 ---
 
-MaohiTech est une société qui se spécialise dans les services de cybersécurité offensive pour la Polynésie Française.
+Iaorana et Maeva! MaohiTech est une société qui se spécialise dans les services de cybersécurité offensive pour la Polynésie Française.
 
 # Nos Services
 
-Nous avons quatre services:
+Nous vous proposons quatre services:
 
 * Formation Hacking: Nous vous formerons dans la pratique de la cybersécurité offensive
 * Test AppSec: Test de le sécurité d'une application, logiciel ou produit
