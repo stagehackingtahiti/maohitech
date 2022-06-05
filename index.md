@@ -4,14 +4,23 @@ layout: default
 
 Iaorana et Maeva! MaohiTech est une société qui se spécialise dans les services de cybersécurité offensive pour la Polynésie Française.
 
-# Nos Services
+# Apprendre le Hacking?
+
+Si vous voulez apprendre le hacking en Polynésie, contactez-nous tout de suite!
+
+* [Stage Hacking - Tahiti](https://www.facebook.com/stagehackingtahiti)
+* stagehackingtahiti @ gmail . com
+
+# Vous avez besoin d'un test de sécurité?
 
 Nous vous proposons quatre services:
 
 * Formation Hacking 
-* Test AppSec
-* Test PenTest 
-* Test RedTeam
+* Test AppSec (test d'application)
+* Test PenTest (test d'intrusion)
+* Test RedTeam (simulation d'adversaire)
+
+# Comparaison des Services
 
 |              | Formation Hacking | Test AppSec  |Test PenTest|Test RedTeam|
 |:-------------|:------------------|:-------------|:-----------|:-----------|
